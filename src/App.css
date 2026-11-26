@@ -1,0 +1,19 @@
+.error {
+  color: red;
+}
+
+.exito {
+  color: green;
+}
+
+.reservado {
+  color: gray;
+}
+
+li {
+  margin-bottom: 12px;
+}
+
+label {
+  margin-right: 6px;
+}
